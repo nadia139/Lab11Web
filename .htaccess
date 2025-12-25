@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /lab11_php_oop/
+    
+    # Jangan proses jika file/folder aslinya memang ada
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    
+    # Arahkan semua request lain ke index.php
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+# Jika mod_rewrite tidak aktif, beri pesan error
+<IfModule !mod_rewrite.c>
+    ErrorDocument 404 "Mod_rewrite must be enabled!"
+</IfModule>
