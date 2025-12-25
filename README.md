@@ -59,3 +59,8 @@ Menampilkan data HP, Xiaomi, Samsung
 Setiap data memiliki aksi Edit dan Hapus
 Informasi struktur database lengkap
 
+
+
+<img width="1700" height="790" alt="Screenshot 2025-12-26 001518" src="https://github.com/user-attachments/assets/fa5d842d-157d-466f-a252-87ee7c5a850f" />
+
+
