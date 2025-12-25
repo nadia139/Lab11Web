@@ -44,6 +44,8 @@ Data disimpan ke tabel data_barang
 <img width="1271" height="809" alt="Screenshot 2025-12-26 000244" src="https://github.com/user-attachments/assets/2c488e9b-192f-48af-a7b0-36e8b6a06242" />
 
 
+
+
 # Data Setelah Ditambahkan
 Data "Iphone 16 pro" berhasil ditambahkan
 Total data menjadi 4 barang
@@ -51,14 +53,15 @@ Format harga sudah benar: Rp 16.000.000 dan Rp 17.000.000
 Tombol Edit dan Hapus berfungsi
 
 
-
 <img width="1726" height="776" alt="Screenshot 2025-12-26 000258" src="https://github.com/user-attachments/assets/6e7bff57-4371-4d1a-9234-318dae9b1bee" />
+
+
+
 
 # Detail Data Barang
 Menampilkan data HP, Xiaomi, Samsung
 Setiap data memiliki aksi Edit dan Hapus
 Informasi struktur database lengkap
-
 
 
 <img width="1700" height="790" alt="Screenshot 2025-12-26 001518" src="https://github.com/user-attachments/assets/fa5d842d-157d-466f-a252-87ee7c5a850f" />
